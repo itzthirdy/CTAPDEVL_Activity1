@@ -46,7 +46,8 @@ The activity required modifying `res/layout/activity_main.xml` to display a cust
     android:background="#F7F5EF"
     tools:context=".MainActivity">
 
-    <TextView android:layout_height="wrap_content"
+    <TextView
+        android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         android:text="Cesar S. Jondiz III!"
         android:textColor="#FF0000" android:textSize="38sp"
